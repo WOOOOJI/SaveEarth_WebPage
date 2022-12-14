@@ -238,8 +238,8 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Our Clients</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>함께해요 !</h2>
+          <p>수많은 기업들이 환경을 생각하며 노력하고 있습니다! 저희는 이러한 모든 기업들을 응원하며 지원하기 위해 자원을 아끼지 않고 후원하고, 계속해서 발전하기 위해 서로를 응원하고 격려하며 현장에서 같이 일을 하고 있습니다.</p>
         </div>
 
         <div class="clients-slider swiper">
@@ -264,8 +264,8 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>여러분들이 참여하는 Save Earth</h2>
+          <p>작은 보탬일지라도 하나 둘 씩 쌓이다 보면, 매우 거대한 힘이 됩니다! 여러분들의 후원이 어떻게 사용 되는지 실시간 모니터링을 통해서 여러분들이 후원하신 만큼 달라지고 있는 세상을 모니터링 할 수 있는 시스템을 제공합니다.</p>
         </div>
 
         <div class="row">
@@ -277,8 +277,8 @@
                 </svg>
                 <i class="bx bxl-dribbble"></i>
               </div>
-              <h4><a href="">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4><a href="">지구에서 제일 큰 바다</a></h4>
+              <p>해양쓰레기, 수질정화 시스템 과 같은 곳에서 저희는 노력합니다</p>
             </div>
           </div>
 
