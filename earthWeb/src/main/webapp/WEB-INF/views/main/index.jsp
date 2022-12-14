@@ -290,8 +290,8 @@
                 </svg>
                 <i class="bx bx-file"></i>
               </div>
-              <h4><a href="">Sed Perspiciatis</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4><a href="">모든 생물은 "땅" 위에서 걷습니다</a></h4>
+              <p>핵폐기물, 소각장, 분리수거와 같은 인간들에 의해서 더럽혀지고 있는 세상을 구해야 합니다.</p>
             </div>
           </div>
 
@@ -303,8 +303,8 @@
                 </svg>
                 <i class="bx bx-tachometer"></i>
               </div>
-              <h4><a href="">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4><a href="">지구에서 제일 큰 바다</a></h4>
+              <p>해양쓰레기, 수질정화 시스템 과 같은 곳에서 저희는 노력합니다</p>
             </div>
           </div>
 
@@ -316,8 +316,8 @@
                 </svg>
                 <i class="bx bx-layer"></i>
               </div>
-              <h4><a href="">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <h4><a href="">모든 생물은 "땅" 위에서 걷습니다</a></h4>
+              <p>핵폐기물, 소각장, 분리수거와 같은 인간들에 의해서 더럽혀지고 있는 세상을 구해야 합니다.</p>
             </div>
           </div>
 
@@ -329,8 +329,8 @@
                 </svg>
                 <i class="bx bx-slideshow"></i>
               </div>
-              <h4><a href="">Dele Cardo</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+              <h4><a href="">지구에서 제일 큰 바다</a></h4>
+              <p>해양쓰레기, 수질정화 시스템 과 같은 곳에서 저희는 노력합니다</p>
             </div>
           </div>
 
@@ -342,8 +342,8 @@
                 </svg>
                 <i class="bx bx-arch"></i>
               </div>
-              <h4><a href="">Divera Don</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+              <h4><a href="">모든 생물은 "땅" 위에서 걷습니다</a></h4>
+              <p>핵폐기물, 소각장, 분리수거와 같은 인간들에 의해서 더럽혀지고 있는 세상을 구해야 합니다.</p>
             </div>
           </div>
 
@@ -358,8 +358,8 @@
 
         <div class="row">
           <div class="col-lg-9 text-center text-lg-start">
-            <h3>Call To Action</h3>
-            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h3>후원하기</h3>
+            <p> 여러분들이 원하는 곳에 직접 후원함으로써 달라진 결과들을 보며 참여감을 느껴보세요. 저희는 그저 동정심을 바라며 후원을 원하지 않습니다. 여러분들 역시 참여함으로써 얻어가는 성취감과 세상을 위해 노력했다는 환경보존의식을 조금씩 키워나가 보세요!</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
             <a class="cta-btn align-middle" href="#">Call To Action</a>
@@ -374,17 +374,17 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>활동</h2>
+          <p> 여러분들이 원하는 곳에 직접 후원함으로써 달라진 결과들을 보며 참여감을 느껴보세요. 저희는 그저 동정심을 바라며 후원을 원하지 않습니다. 여러분들 역시 참여함으로써 얻어가는 성취감과 세상을 위해 노력했다는 환경보존의식을 조금씩 키워나가 보세요!</p>
         </div>
 
         <div class="row">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter=".filter-app">Ground</li>
+              <li data-filter=".filter-card">Sea</li>
+              <li data-filter=".filter-web">Life</li>
             </ul>
           </div>
         </div>
