@@ -117,6 +117,20 @@
 			<scope>test</scope>
 		</dependency>     
 		
+		<!-- DB연동 디펜더시 -->
+		<dependency>
+  		  <groupId>org.springframework</groupId>
+  		  <artifactId>spring-jdbc</artifactId>
+  		  <version>5.2.22.RELEASE</version>
+		</dependency>
+		
+		<!-- Commons Io -->
+		<dependency>
+		 <groupId>commons-io</groupId>
+   		 <artifactId>commons-io</artifactId>
+   		 <version>2.11.0</version>
+		</dependency>
+		
 		<!-- https://mvnrepository.com/artifact/org.mybatis/mybatis-spring -->
 		<dependency>
 		    <groupId>org.mybatis</groupId>
