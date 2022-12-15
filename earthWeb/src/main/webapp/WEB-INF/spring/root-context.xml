@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd">
+	xmlns:mybatis-spring="http://mybatis.org/schema/mybatis-spring"
+	xsi:schemaLocation="http://mybatis.org/schema/mybatis-spring http://mybatis.org/schema/mybatis-spring-1.2.xsd
+		http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd">
 	
 	<!-- Root Context: defines shared resources visible to all other web components -->
 	<!-- oracle JDBC 연결 설정 -->
@@ -22,6 +24,7 @@
 		<!-- 			boardMapper.xml 	memberMapper.xml     dataMapper.xml   -->
 		<property name="mapperLocations" value="classpath:/mapper/*Mapper.xml"></property>
 	</bean>	
-		
-		
+	
+	<!-- dao 클래스 있는 위치 -->
+	<mybatis-spring:scan base-package="com.save.earth.dao"/>
 </beans>

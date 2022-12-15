@@ -1,5 +1,7 @@
 package com.save.earth.service;
 
-public interface LoginService {
+import com.save.earth.vo.LoginVO;
 
+public interface LoginService {
+	public int loginOk(LoginVO vo);
 }
