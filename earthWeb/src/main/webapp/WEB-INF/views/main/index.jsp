@@ -55,7 +55,7 @@
           <li><a class="nav-link scrollto" href="#services">후원</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">활동</a></li>
           <li><a class="nav-link scrollto" href="#services">참여</a></li>
-          <li><a class="getstarted scrollto" href="#about">가입하기</a></li>
+          <li><a class="getstarted scrollto" href="<%=request.getContextPath()%>/login/loginForm">로그인</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
