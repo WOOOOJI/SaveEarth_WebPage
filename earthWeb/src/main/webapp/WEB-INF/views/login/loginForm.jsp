@@ -165,7 +165,7 @@ background: linear-gradient(90deg, rgba(220,219,231,1) 0%, rgba(197,230,196,1) 7
 <body>
     <div class="page-container">
         <div class="login-form-container shadow">
-            <div class="login-form-right-side"><img alt="" src="resources/flow.gif">
+            <div class="login-form-right-side">
                 <div class="top-logo-wrap">
                     
                 </div>
